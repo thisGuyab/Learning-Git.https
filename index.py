@@ -1,2 +1,7 @@
 #!/usr/local/bin/python3
-print("This is my main file)
+
+def main():
+  print("This is my main file)
+
+if __name__ == "__main__":
+  main()
